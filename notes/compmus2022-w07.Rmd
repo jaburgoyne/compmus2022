@@ -10,7 +10,7 @@ output:
       bootswatch: solar
 ---
 
-You can download the raw source code for these lecture notes [here](./compmus2021-w07.Rmd).
+You can download the raw source code for these lecture notes [here](./notes/compmus2021-w07.Rmd).
 
 ## Course Meeting Plan
 

@@ -22,7 +22,7 @@ Welcome to Computational Musicology 2021!
 
 You can access the lecture notes at the following links.
 
-  - [Week 7 · Computational Musicology and (Audio) Visualisation Visualisation](./notes/compmus2022-w07.html)
+  - [Week 7 · Computational Musicology and (Audio) Visualisation](./notes/compmus2022-w07.html)
 
 ### What makes a good corpus?
 
