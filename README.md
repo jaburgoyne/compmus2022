@@ -1,2 +1,2 @@
-# compmus2021
-Demo repository for Computational Musicology at the University of Amsterdam (2021 edition)
+# compmus2022
+Demo repository for Computational Musicology at the University of Amsterdam (2022 edition)
