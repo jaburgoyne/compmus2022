@@ -12,37 +12,25 @@ output:
 
 You can download the raw source code for these lecture notes [here](compmus2022-w12.Rmd).
 
-## Agenda
+## Course Meeting Plan
 
-### 11.00 · How Do Music Apps Work?
+### Tuesday · 22 March · Lecture
 
   - Lecture: Famous MIR applications (15 minutes)
   - Breakout: Discover Weekly (15 minutes)
   - Discussion: Breakout results (10 minutes)
-  - Break (5 minutes)
-
-### 11.50 · Classification and Clustering
-
   - Lecture: Classification and Clustering (20 minutes)
   - Discussion: Classification and Clsutering (5 minutes)
   - Portfolio critiques (15 minutes)
 
-### 12.30 · Lunch
-
-### 13.00 · Classification and Prediction 
+### Wednesday · 23 March · Lab
 
   - Demo: Classification with tidymodels (20 minutes)
   - Breakout: Classification with tidymodels (20 minutes)
   - Discussion: Breakout results (5 minutes)
-  - Break (5 minutes)
-
-### 13.50 · Clustering
-
   - Demo: Hierarchical clustering (15 minutes)
   - Breakout: Clustering (15 minutes)
   - Discussion: Breakout results (10 minutes)
-
-### 14.30 · Exam Info and Live Q&A
 
 ## Breakout 1: Discover Weekly
 
@@ -81,9 +69,9 @@ get_pr <- function(fit) {
 }  
 ```
 
-## Breakout 2: Classification
+## Breakout 2: Clustering
 
-In order to demonstrate some of the principles of classification, we will try to identify some of the features that Spotify uses to designate playlists as 'workout' playlists. For a full analysis, we would need to delve deeper, but let's start with a comparison of three playlists: Indie Pop, Indie Party, and Indie Workout. For speed, this example will work with only the first 20 songs from each playlist, but you should feel free to use more if your computer can handle it.
+In order to demonstrate some of the principles of clustering, we will try to identify some of the features that Spotify uses to designate playlists as 'workout' playlists. For a full analysis, we would need to delve deeper, but let's start with a comparison of three playlists: Indie Pop, Indie Party, and Indie Workout. For speed, this example will work with only the first 20 songs from each playlist, but you should feel free to use more if your computer can handle it.
 
 **After you have this section of the notebook working, try using other combinations of Spotify workout playlists with similarly-named non-workout playlists.**
 
